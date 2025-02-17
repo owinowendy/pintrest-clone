@@ -1,8 +1,8 @@
 
 import React from 'react';
-import Headerstyle from '../styles/headerstyle'
-import { MoreOutlined } from '@ant-design/icons';
-import { Dropdown, Button, Space, Tooltip } from 'antd';
+
+
+
 
 function filterResults(event, props) {
   let filteredPins = props.pinsToFilter.filter((pin) => {

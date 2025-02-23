@@ -1,10 +1,10 @@
-import Header from './components/Header';
-import './App.css';
+import DropdownModal from "./components/DropdownModal";
+
 
 function App() {
   return (
     <div className="App">
-      <Header/>
+  <DropdownModal/>
     </div>
   );
 }

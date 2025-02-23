@@ -1,8 +1,7 @@
 
 import React from 'react';
-
-
-
+import { MoreOutlined } from '@ant-design/icons';
+import { Dropdown, Button, Space, Tooltip } from 'antd';
 
 function filterResults(event, props) {
   let filteredPins = props.pinsToFilter.filter((pin) => {
@@ -33,7 +32,7 @@ function Header(props) {
       <div className='left'>
         <Tooltip title='Homepage'>
           <a href='/' className='logo'>
-            <img src='./images/fussek-logo-pinterest.png' alt='logo' className='logo' />
+            <img src='./images/logo.png' alt='logo' className='logo' />
           </a>
         </Tooltip>
       </div>

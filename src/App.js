@@ -1,10 +1,9 @@
-import DropdownModal from "./components/DropdownModal";
-
+import EnlargeImg from "./components/EnlargeImg";
 
 function App() {
   return (
     <div className="App">
-  <DropdownModal/>
+<EnlargeImg/>
     </div>
   );
 }

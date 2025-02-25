@@ -1,9 +1,9 @@
-import EnlargeImg from "./components/EnlargeImg";
+import Pin from "./components/Pin";
 
 function App() {
   return (
     <div className="App">
-<EnlargeImg/>
+<Pin/>
     </div>
   );
 }

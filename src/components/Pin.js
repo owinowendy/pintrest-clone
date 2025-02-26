@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import '../styles/Pin';
+import "../styles/Pin.css"
 import Swal from 'sweetalert2';
 import withReactContent from 'sweetalert2-react-content';
 import { MoreOutlined } from '@ant-design/icons';

@@ -1,11 +1,11 @@
-.tags-container {
+.tags-container 
     /* box-sizing: border-box; */
     /* height: 100vh; */
     /* display: flex; */
     /* align-items: center;
     justify-content: center; */
     /* font-family: 'Overpass', sans-serif; */
-  }
+  
   .tags-input {
     display: flex;
     align-items: flex-start;

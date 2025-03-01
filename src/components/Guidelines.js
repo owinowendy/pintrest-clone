@@ -1,6 +1,6 @@
 
 import React from 'react'
-
+import "../styles/guidelines.css"
 import { LeftOutlined, RightOutlined } from '@ant-design/icons';
 import { Button } from 'antd';
 
